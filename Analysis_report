@@ -1,0 +1,9 @@
+Analysis
+
+This project saw the analysis of test results involving 249 mice divided in 10 drug treatments, including a placebo/control test regimen based on specific parameters help determine trends, and patterns as well as to draw conclusions that can be used to make informed decisons about anti-cancer medications.
+
+Conclusions drawn from the thorough analyses applied to the complete data from Pymaceuticals' most recent animal study suggests:
+
+There is a postitive correlation between the weight of the mice and the tumor size with a correlation value of 0.84.
+Of the 4 drug regimens analyized, Capomulin and Ramicane came up top as the most effective at reducing tumor sizes.
+Of the 4 drug regimens analyized, the least effective were the bottom two drugs Infubinol and Ceftamin.
